@@ -1,2 +1,2 @@
 # SmartChat
-React Chat App
+React Chat App Backend
